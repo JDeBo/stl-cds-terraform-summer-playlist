@@ -14,5 +14,21 @@ artists = {
     "Fall Out Boy" = {
         name= "Fall Out Boy"
         limit= 30
+    },
+    "ABBA" = {
+        name= "ABBA"
+        limit= 25
+    },
+    "Dua Lipa" = {
+        name= "Dua Lipa"
+        limit= 15
+    },
+    "The Weeknd" = {
+        name= "The Weeknd"
+        limit= 15
+    },
+    "Chappell Roan" = {
+        name= "Chappell Roan"
+        limit= 15
     }
 }
