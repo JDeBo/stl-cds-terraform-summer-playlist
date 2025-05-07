@@ -26,5 +26,9 @@ artists = {
     "The Weeknd" = {
         name= "The Weeknd"
         limit= 15
+    },
+    "Chappell Roan" = {
+        name= "Chappell Roan"
+        limit= 15
     }
 }
